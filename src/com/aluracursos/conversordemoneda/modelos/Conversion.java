@@ -10,7 +10,6 @@ public class Conversion {
         this.resultado = resultado;
     }
 
-
     public String getResultado() {
         return resultado;
     }
